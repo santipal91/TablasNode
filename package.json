@@ -1,0 +1,15 @@
+{
+  "name": "01-hola-mundo",
+  "version": "1.0.0",
+  "description": "Aplicacion de linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Palacio",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {}
+}
